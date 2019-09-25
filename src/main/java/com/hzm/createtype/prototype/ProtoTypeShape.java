@@ -1,4 +1,4 @@
-package com.hzm.prototype;
+package com.hzm.createtype.prototype;
 
 import java.util.*;
 

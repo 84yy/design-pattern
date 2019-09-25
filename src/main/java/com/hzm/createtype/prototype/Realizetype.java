@@ -1,4 +1,4 @@
-package com.hzm.prototype;
+package com.hzm.createtype.prototype;
 
 public class Realizetype implements Cloneable {
 

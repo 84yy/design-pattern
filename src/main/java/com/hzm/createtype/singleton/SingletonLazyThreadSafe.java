@@ -1,4 +1,4 @@
-package com.hzm.singleton;
+package com.hzm.createtype.singleton;
 
 /**
  * 线程安全得懒汉模式

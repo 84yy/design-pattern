@@ -1,4 +1,4 @@
-package com.hzm.prototype;
+package com.hzm.createtype.prototype;
 
 public class ProtoTypeCitation {
     public static void main(String[] args) throws CloneNotSupportedException {

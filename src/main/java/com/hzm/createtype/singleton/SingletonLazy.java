@@ -1,4 +1,4 @@
-package com.hzm.singleton;
+package com.hzm.createtype.singleton;
 
 /**
  * 懒汉模式
